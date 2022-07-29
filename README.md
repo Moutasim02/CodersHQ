@@ -28,8 +28,7 @@ docker.
 
 ## 📄 The Docs
 
-
-Have a look at the [docs](https://coders-hq.github.io/CodersHQ), we document everything over there.
+Have a look at the [docs](./docs/), we document everything over there.
 We plan to migrate from the docs to something more established, like readthedocs, once we have enough material
 to work with.
 
